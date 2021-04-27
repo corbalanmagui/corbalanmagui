@@ -12,6 +12,7 @@
 - PostgreSQL
 - Sequelize ORM
 - HTML y CSS
+- Git
 
 ## Some of my projects:
 
