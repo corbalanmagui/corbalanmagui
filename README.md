@@ -9,8 +9,8 @@
 - Redux
 - NodeJS
 - Express.js
-- PostgreSQL
-- Sequelize ORM
+- PostgreSQL | MongoDB
+- Sequelize ORM | TypeORM | Mongoose
 - HTML y CSS
 - Git
 
