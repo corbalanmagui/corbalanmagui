@@ -1,4 +1,4 @@
-# Hello everyone! I'm Magali 👋
+# Hello everyone! I'm Magui 👋
 
 ## I'm a Fullstack Developer, with preferences in the Backend.
 
