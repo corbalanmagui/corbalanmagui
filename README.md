@@ -1,7 +1,6 @@
 ## Hello world! 👋 It's [Magui!](https://www.linkedin.com/in/magalicorbalan/)
 I'm a Backend Developer, currently working at [Loopstudio](https://loopstudio.dev/).
 
-<br/>
 
 ### Technologies and Tools I work with: 
 
