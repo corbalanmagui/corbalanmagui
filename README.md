@@ -5,14 +5,18 @@
 ### Technologies and Tools I work with: 
 
 - JavaScript
-- React.js
-- Redux
+- Typescript
 - NodeJS
+- Next.js
 - Express.js
 - PostgreSQL | MongoDB
 - Sequelize ORM | TypeORM | Mongoose
+- Jest
+- React.js
+- Redux
 - HTML y CSS
 - Git
+- Swagger
 
 ## Some of my projects:
 
