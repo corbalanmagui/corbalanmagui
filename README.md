@@ -1,6 +1,7 @@
-# Hello everyone! I'm Magui 👋
+## Hello world! 👋 It's [Magui!](https://www.linkedin.com/in/magalicorbalan/)
+I'm a Backend Developer, currently working at [Loopstudio](https://loopstudio.dev/).
 
-## I'm a Fullstack Developer, with preferences in the Backend.
+<br/>
 
 ### Technologies and Tools I work with: 
 
