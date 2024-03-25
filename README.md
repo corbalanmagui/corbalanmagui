@@ -16,12 +16,12 @@ I'm a Backend Developer, currently working at [Loopstudio](https://loopstudio.de
 - HTML y CSS
 - Git
 - Swagger
-- Python
+- Python :snake:
 - DBT
 - Snowflake
-- AWS
+- AWS 
 - GCP
-- Docker
+- Docker :whale:
 
 
 ## Contact
