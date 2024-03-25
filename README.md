@@ -2,7 +2,7 @@
 I'm a Backend Developer, currently working at [Loopstudio](https://loopstudio.dev/).
 
 
-### :muscle::skin-tone-3: Technologies and Tools I work with: 
+### :muscle: Technologies and Tools I work with: 
 
 - JavaScript
 - Typescript
