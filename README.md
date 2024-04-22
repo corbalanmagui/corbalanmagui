@@ -1,5 +1,5 @@
 ## Hello world! 👋 It's [Magui!](https://www.linkedin.com/in/magalicorbalan/)
-I'm a Backend Developer, currently working at [Loopstudio](https://loopstudio.dev/).
+I'm a Backend Developer, currently working at [ReflexAI](https://www.reflexai.com/).
 
 
 ### :muscle: Technologies and Tools I work with: 
